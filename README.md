@@ -3,7 +3,7 @@
 > **Publication venue:** IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 > **Status:** Code release coming soon 🚧
 
-Official implementation of **Self-MAR** (a.k.a. elf-MAR), a self-supervised paradigm for water-related optical image enhancement that enables **input-only restoration** via a VAR-inspired **M**ulti-stage **A**uto**R**egressive model, in which each restoration stage is conditioned on the preceding restored state.
+Official implementation of Self-MAR, a self-supervised paradigm for water-related optical image enhancement that enables input-only restoration via a VAR-inspired Multi-stage AutoRegressive model, in which each restoration stage is conditioned on the preceding restored state.
 
 ---
 
